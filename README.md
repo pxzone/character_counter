@@ -7,5 +7,5 @@ A user script that will count all characters in Bitcointalk posts, which can be 
 ## How to install
 - Install Tampermonkey either for desktop (most browsers) and mobile (Edge or any browsers supporting extensions).
 - Go Tampermonkey and Create new script..
-- Copy and paste the [userscript](https://raw.githubusercontent.com/pxzone/bitcointalk_character_counter/refs/heads/main/counter.js)
+- Copy and paste the [userscript](https://raw.githubusercontent.com/pxzone/bitcointalk_character_counter/refs/heads/main/counter.user.js)
 - Then save
